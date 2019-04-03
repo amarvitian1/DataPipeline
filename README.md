@@ -28,5 +28,7 @@ Debug Steps to Run the Program Manually.
 1. docker-compose build && docker-compose run --rm app bash\
 2. python DataPipeline.py
 
+Added the Setup for Notebook as a seperate Document in Git
+
             
             
