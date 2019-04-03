@@ -30,5 +30,7 @@ Debug Steps to Run the Program Manually.
 
 Added the Setup for Notebook as a seperate Document in Git
 
+JupterDataAnalysis.ipynb
+JupterDataAnalysis.pdf
             
             
