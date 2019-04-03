@@ -33,4 +33,7 @@ Added the Setup for Notebook as a seperate Document in Git
 JupterDataAnalysis.ipynb
 JupterDataAnalysis.pdf
             
-            
+For Deployment , was not able to finish as there were lot to finish within this time span.
+
+1. Uploaded the Docker image to ECS.
+2. Created a service called Etl with a sample task calling Datapipeline.py
